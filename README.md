@@ -1,4 +1,3 @@
-# identityv-survivor-analysis
 # Identity V Survivor Performance Analysis
 
 ## Overview
